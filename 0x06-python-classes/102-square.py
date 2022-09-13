@@ -34,7 +34,7 @@ class Square:
         return self.area() == other.area()
 
     def __ne__(self, other):
-        """Define the != comparison to a Square."""
+        """Define the != comparison to  Square."""
         return self.area() != other.area()
 
     def __lt__(self, other):

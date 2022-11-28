@@ -53,7 +53,7 @@ Prototypes for functions written in this project:
 
 * **5. An Integer**
   * [5-to_integer.js](./5-to_integer.js): JavaScript script that prints
-  `My number: <first argument converted in integer>` if the first pased argument
+  `My number: <first argument converted in integer>` if the first parsed argument
   can be converted to an integer.
   * Usage: `./5-to_integer.js`
   * If the argument cannot be converted to an integer, prints `'Not a number'`.

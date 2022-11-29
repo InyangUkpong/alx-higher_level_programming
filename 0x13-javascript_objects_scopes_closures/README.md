@@ -70,7 +70,7 @@ Prototypes for functions written in this project:
 
 * **9. Log me**
   * [9-logme.js](./9-logme.js): JavaScript function that prints the number of
-  arguments already printed as well as the new argument value.
+  arguments already printed and also the new argument value.
   * Output: `<number arguments already printed>: <current argument value>`
 
 * **10. Number conversion**
